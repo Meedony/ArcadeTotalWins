@@ -1,0 +1,6 @@
+name: ArcadeTotalWins
+version: '${project.version}'
+main: me.meedo.arcadetotalwins.ArcadeTotalWins
+api-version: '1.13'
+depend: [ PlaceholderAPI ]
+authors: [ Meedo ]
