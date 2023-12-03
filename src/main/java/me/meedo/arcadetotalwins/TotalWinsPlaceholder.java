@@ -9,17 +9,17 @@ public class TotalWinsPlaceholder extends PlaceholderExpansion {
 
     @Override
     public @NotNull String getIdentifier() {
-        return "arcadetotal"; // Replace with your unique identifier
+        return "arcadetotal";
     }
 
     @Override
     public @NotNull String getAuthor() {
-        return "Meedo"; // Replace with your name or identifier
+        return "Meedo";
     }
 
     @Override
     public @NotNull String getVersion() {
-        return "1.0.0"; // Replace with your version
+        return "1.0.0";
     }
 
     @Override
