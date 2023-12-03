@@ -1,14 +1,12 @@
-# ArcadeTotalWins
-The ArcadeTotalWins plugin is an addon to the Arcade Minigames plugin.
+# ArcadeTotalWins Addon
+It checks the wins from all the arcade games and adds them up and returns the total.
 
-**Placeholder:** `%arcadetotal_wins%`
+# Usage
+Placeholder: `%arcadetotal_wins%`
 
 # Installation
-Just drop it in your plugins folder and you'reready to go, there is no any type of configuration to this plugin.
+Just drop it in your plugins folder and you're ready to go, there is no any type of configuration to this plugin.
 
-
-# IMPORTANT
-
-**This plugin is NOT affiliated with the Arcade Minigames plugin, I'm not even sure if I'm allowed to share it without permission**
-
-It's only a temporary plugin until the Arcade plugin adds the total wins placeholder.
+# Important
+This plugin is NOT affiliated with the GlassyNET development team.
+This plugin is only temporary, until the Arcade Minigames plugin adds the total wins placeholder.
